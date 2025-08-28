@@ -1,0 +1,10 @@
+cidade,estado,populacao,pib_milhoes,area_km2,distancia_recife,distancia_salvador,preco_terreno_m2,indice_desenvolvimento
+Recife,Pernambuco,1653461,28750,218.5,0,850,1200,0.772
+Salvador,Bahia,2872347,42300,693.8,850,0,980,0.759
+Fortaleza,Ceará,2669342,35800,314.9,800,1400,1100,0.754
+Natal,Rio Grande do Norte,890480,15800,167.3,300,1200,950,0.763
+João Pessoa,Paraíba,817511,14200,211.5,120,970,900,0.763
+Maceió,Alagoas,1025360,18200,509.5,285,565,850,0.720
+Aracaju,Sergipe,664908,11800,181.9,450,350,800,0.747
+Teresina,Piauí,868075,15400,1391.9,650,1050,750,0.751
+São Luís,Maranhão,1108975,19700,834.8,1200,1350,700,0.768

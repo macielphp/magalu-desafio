@@ -1,0 +1,10 @@
+cidade,porto,aeroporto,rodovias_federais,ferrovias,centros_distribuicao,indice_connectividade
+Recife,1,1,3,1,2,0.85
+Salvador,1,1,4,1,1,0.82
+Fortaleza,1,1,2,0,1,0.78
+Natal,0,1,2,0,0,0.72
+João Pessoa,0,1,2,0,0,0.70
+Maceió,1,1,2,0,0,0.75
+Aracaju,1,1,2,0,0,0.73
+Teresina,0,1,3,0,0,0.68
+São Luís,1,1,2,0,0,0.76

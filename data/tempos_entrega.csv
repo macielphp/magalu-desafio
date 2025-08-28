@@ -1,0 +1,15 @@
+origem,destino,distancia_km,tempo_entrega_horas,modal_principal
+Recife,Natal,300,4,rodoviario
+Recife,João Pessoa,120,2.5,rodoviario
+Recife,Maceió,285,5,rodoviario
+Recife,Aracaju,450,7,rodoviario
+Recife,Fortaleza,800,12,rodoviario
+Recife,Teresina,650,10,rodoviario
+Recife,São Luís,1200,18,rodoviario
+Salvador,Maceió,565,8,rodoviario
+Salvador,Aracaju,350,5.5,rodoviario
+Salvador,Teresina,1050,15,rodoviario
+Salvador,São Luís,1350,20,rodoviario
+Salvador,Fortaleza,1400,21,rodoviario
+Salvador,Natal,1200,18,rodoviario
+Salvador,João Pessoa,970,14,rodoviario
